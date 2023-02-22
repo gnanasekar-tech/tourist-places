@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.tourism-bg-container {
+    background-image: url("https://img.freepik.com/free-photo/cascade-boat-clean-china-natural-rural_1417-1356.jpg?w=900&t=st=1660734706~exp=1660735306~hmac=eaacb93a437c8eb88daf6b0ecabde44b290364ac203f62eb0e36664ecc5a8a85");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.tourism-main-card {
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.tourism-heading {
+    font-family: "roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+}
+
+.tourism-paragraph {
+    color: yellow;
+    font-family: "caveat";
+    font-size: 20px;
+}
+
+.tourism-button {
+    background-color: brown;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.favourite-place-bg-container {
+    background-image: url("https://as1.ftcdn.net/v2/jpg/04/14/12/20/1000_F_414122060_t4HGy1sGgZhgpoFmYZb93blrLo5C9nXs.jpg");
+    height: 220vh;
+    background-size: cover;
+    padding: 10px;
+    text-align: center;
+}
+
+.favourite-place-main-heading {
+    color: white;
+    padding: 10px;
+    font-family: "roboto";
+}
+
+.favourite-places-card {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.favourite-place-card-image {
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+
+.favourite-main-heading {
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+
+.favourite-place-paragraph {
+    font-family: "Caveat";
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.tajmahal1-bg-container {
+    background-image: url("https://img.freepik.com/free-vector/abstract-classic-blue-screensaver_23-2148421853.jpg?w=900&t=st=1660742773~exp=1660743373~hmac=7412916f0966e812ff62eb2ccb515d462da629999ba90e571deccce19296b1d4");
+    height: 250vh;
+    background-size: cover;
+
+}
+
+.tajmahal1-main-heading {
+    color: white;
+    padding: 10px;
+
+}
+
+.tajmahal1-bottom-container {
+    padding: 20px;
+    text-align: center;
+}
+
+
+.tajmahal1-bottom-card {
+    background-color: white;
+
+}
+
+.tajmahal1-paragraph {
+    padding: 20px;
+    font-family: "roboto";
+    font-size: 25px;
+
+}
+
+.tajmahal1-button {
+    background-color: black;
+    color: red;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+.tajmahal1-button1 {
+    background-color: yellow;
+    color: red;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+.tajmahal2-bg-container {
+    background-image: url("https://img.freepik.com/free-vector/abstract-classic-blue-screensaver_23-2148421853.jpg?w=900&t=st=1660742773~exp=1660743373~hmac=7412916f0966e812ff62eb2ccb515d462da629999ba90e571deccce19296b1d4");
+    height: 240vh;
+    background-size: cover;
+
+}
+
+.tajmahal2-main-heading {
+    color: white;
+    padding: 10px;
+
+}
+
+.tajmahal2-bottom-container {
+    padding: 20px;
+    text-align: center;
+}
+
+.tajmahal2-bottom-card {
+    background-color: white;
+
+}
+
+.tajmahal2-paragraph {
+    padding: 20px;
+    font-family: "roboto";
+    font-size: 25px;
+
+}
+
+.tajmahal2-button {
+    background-color: black;
+    color: red;
+    border-radius: 20px;
+    padding: 10px;
+}
